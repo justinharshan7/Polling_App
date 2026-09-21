@@ -7,8 +7,8 @@ A simple web-based polling/voting application built for the DevOps Engineering m
 - Backend: Node.js, Express, MongoDB
 
 ## Team
-- [Your Name] - [Your Index No]
-- [Partner's Name] - [Her Index No]
+- Harshan J.J.      - EG/2023/5629
+- Hasanthi R.A.M.A. - EG/2023/5630
 
 ## Setup Instructions
 (To be added once backend/frontend are complete)
